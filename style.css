@@ -5,13 +5,13 @@ span {
 }
 
 img {
-    width: 220px;
+    width: 230px;
     height: 300px;
     border-radius: 15px;
 }
 
 table {
-    width:70%;
+    width:80%;
     text-align:center;
     margin: 0 auto;
     border:1px solid white;
