@@ -6,10 +6,9 @@ span {
 }
 
 img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width:50%;
+    width:230;
+    height:3px;
+    border-radius: 20px;
 }
 
 table {
