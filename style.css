@@ -20,16 +20,16 @@
     background: #252525;
 }
 
-.light-contacts {
-    background: white;
-}
-
 .light-profile-img {
     border: 3px solid #e2d7d7;
 }
 
 .light-table {
     border: 1px solid #000000;
+}
+
+.light-contacts {
+    background: red;
 }
 
 /* ------------------light mode------------------- */
@@ -42,8 +42,7 @@
 }
 
 .dark-contacts {
-    background: black;
-}
+    background : white;
 
 .dark-toggle {
     color: #252525;
