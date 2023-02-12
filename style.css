@@ -249,7 +249,11 @@ td,th {
     .python {
         grid-area: 2 / 1 / 6 / 2;
     }
+    .java {
+        grid-area: 4 / 2 / 6 / 4:
+    }
     
+
 }
 
 /* -----------------------for tablets,mobiles----------------------- */
