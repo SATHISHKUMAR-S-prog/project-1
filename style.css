@@ -23,9 +23,6 @@
 .light-profile-img {
     border: 3px solid #e2d7d7;
 }
-.light-contacts {
-    border: 1px solid #000000;
-}
 
 .light-table {
     border: 1px solid #000000;
@@ -134,9 +131,8 @@ dt {
     align-items: center;
     margin-top: 52px;
     border-radius: 50px;
-    background: white;
+    background: #0000FF;
     height: 60px;
-    border-color: red;
 }
 
 #contacts div img {
