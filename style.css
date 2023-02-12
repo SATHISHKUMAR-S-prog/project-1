@@ -21,7 +21,7 @@
 }
 
 .light-contacts {
-    background: black;
+    background: white;
 }
 
 .light-profile-img {
@@ -42,7 +42,7 @@
 }
 
 .dark-contacts {
-    background: white;
+    background: black;
 }
 
 .dark-toggle {
