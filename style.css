@@ -133,6 +133,7 @@ dt {
     border-radius: 50px;
     background: white;
     height: 60px;
+    border-color: red;
 }
 
 #contacts div img {
