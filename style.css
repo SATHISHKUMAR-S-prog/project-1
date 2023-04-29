@@ -267,4 +267,7 @@ td,th {
     .python {
         grid-area: 3 / 2 / 4 / 3;
     }
+    .java {
+        grid-area: 5 / 3 / 4 / 3:
+    }
 }
