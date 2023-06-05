@@ -247,10 +247,10 @@ td,th {
 
     
     .python {
-        grid-area: 2 / 1 / 6 / 2;
+        grid-area: 2 / 1 / 6 / 2:
     }
     .java {
-        grid-area: 4 / 2 / 6 / 4;
+        grid-area: 4 / 2 / 6 / 4:
     }
     
 
@@ -265,9 +265,9 @@ td,th {
 
     
     .python {
-        grid-area: 3 / 2 / 4 / 3;
+        grid-area: 3 / 2 / 4 / 3:
     }
     #.java {
-        grid-area: 4 / 2 / 4 / 3;
+        grid-area: 4 / 2 / 4 / 3:
     }
 }
