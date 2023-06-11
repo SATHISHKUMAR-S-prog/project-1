@@ -115,8 +115,8 @@ dt {
     border-radius: 50%;
     background: url("./IMG_2021.jpg") no-repeat;
     background-size: 250px 200px;
-    background-position-x: -70px;
-
+    background-position-x: -90px;
+    background-position-y: 25px;
     /* border: 3px solid #585858; */
 }
 
